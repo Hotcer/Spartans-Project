@@ -96,3 +96,8 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 ### Notebooks de EDA
 
 <p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/EDAs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de análisis exploratorio de datos (EDA).
+
+### Video representativo de nuestra Automatización
+
+[Al hacer click en este enlace](https://drive.google.com/file/d/1m9XfsM0mWxTrELu12oXCSscTuTSSfKtZ/view?usp=sharing) será conducido a un drive que contiene el video de la representación del trabajo de nuestra VM. Esta esta representa de manera más visual cuál es el trabajo de nuestro preograma para la actualización automatica de nuestros datos.
+
