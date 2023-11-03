@@ -99,5 +99,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ### Video representativo de nuestra Automatización
 
-[Al hacer click en este enlace](https://drive.google.com/file/d/1m9XfsM0mWxTrELu12oXCSscTuTSSfKtZ/view?usp=sharing) será conducido a un drive que contiene el video de la representación del trabajo de nuestra VM. Esta esta representa de manera más visual cuál es el trabajo de nuestro preograma para la actualización automatica de nuestros datos.
+Al hacer [click en este enlace](https://drive.google.com/file/d/1m9XfsM0mWxTrELu12oXCSscTuTSSfKtZ/view?usp=sharing) será conducido a un drive que contiene el video de la representación del trabajo de nuestra VM. Esta esta representa de manera más visual cuál es el trabajo de nuestro preograma para la actualización automatica de nuestros datos.
 
+#### Archivos complementarios a la utomatización
+Al hacer [click en este enlace](https://drive.google.com/drive/folders/137Uoz2CBihE4KXRAZ4j0wK5vyJgKAETf?usp=drive_link) será conducido a un drive que contiene toda una carpeta que almacena distintos archivos que hacen que nuestra VM funcionen. También cuenta con un archivo que cuenta un poco más acerca del proceso.
