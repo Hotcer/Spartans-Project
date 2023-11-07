@@ -93,6 +93,10 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <br>
 
+### Diccionario de tablas
+
+Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Project/blob/master/Diccionario.md) será conducido al archivo donde se encuentra el diccionario de las tablas que usamos.
+
 ### Notebooks de EDA
 
 <p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/EDAs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de análisis exploratorio de datos (EDA).
