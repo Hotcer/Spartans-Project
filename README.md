@@ -101,9 +101,9 @@ Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Proje
 
 <p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/EDAs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de análisis exploratorio de datos (EDA).
 
-### Video representativo de nuestra Automatización
+## Automatización
 
 Al hacer [click en este enlace](https://drive.google.com/file/d/1lrnQAMO9Aa_GPigfIoAYQdb_JjyEDBwJ/view?usp=sharing) será conducido a un drive que contiene el video de la representación del trabajo de nuestra VM. Esta esta representa de manera más visual cuál es el trabajo de nuestro preograma para la actualización automatica de nuestros datos.
 
 #### Archivos complementarios a la automatización
-Al hacer [click en este enlace](https://drive.google.com/drive/folders/1GhR8QvGcFZlOCL4ugEFCfyQNQ1GmjHE-?usp=drive_link) será conducido a un drive que contiene toda una carpeta que almacena distintos archivos que hacen que nuestra VM funcionen. También cuenta con un archivo que cuenta un poco más acerca del proceso.
+Al hacer [click en este enlace](https://drive.google.com/drive/folders/1GhR8QvGcFZlOCL4ugEFCfyQNQ1GmjHE-?usp=drive_link) será conducido a un drive que contiene toda una carpeta que almacena distintos que son los que ejecutamos para la automatizacón de extracción de datos, limpieza, transformaciones y actualizaciones.
