@@ -108,3 +108,23 @@ Al hacer [click en este enlace](https://drive.google.com/file/d/1lrnQAMO9Aa_GPig
 
 #### Archivos complementarios a la automatización
 Al hacer [click en este enlace](https://drive.google.com/drive/folders/1GhR8QvGcFZlOCL4ugEFCfyQNQ1GmjHE-?usp=drive_link) será conducido a un drive que contiene toda una carpeta que almacena distintos que son los que ejecutamos para la automatizacón de extracción de datos, limpieza, transformaciones y actualizaciones.
+
+
+## ¡Descrube nuestro asistente! 
+
+¡Descubre el nuevo asistente gastronómico que revolucionará tus experiencias culinarias! 🍽✨
+
+🌟 Presentamos el Bot de Recomendación de Restaurantes en Telegram: [BotTrends](https://t.me/BotTrends_bot) 🌟
+
+🍕 ¿Antojo de pizza?¿O quizás un lugar acogedor para una cita especial? Deja que nuestro bot te guíe hacia las mejores opciones de la ciudad.
+
+✨ Características destacadas:
+- Recomendaciones personalizadas basadas en tus preferencias. Puedes elegir de las ciudades más importante de Estados Unidos.
+- Reseñas honestas y actualizadas de la comunidad gastronómica.
+- ¡Descubre gemas culinarias que ni siquiera sabías que existían!
+
+🔥 ¡Convierte cada comida en una experiencia extraordinaria con BotTrends! Únete ahora: [BotTrends](https://t.me/BotTrends_bot) 🔥
+
+¡Prepárate para explorar un mundo de sabores con solo un clic! 🌍🔍 #BotTrends #RecomendacionesGastronómicas #ExploreFlavors
+
+
