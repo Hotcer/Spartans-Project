@@ -128,5 +128,5 @@ Al hacer [click en este enlace](https://drive.google.com/drive/folders/1GhR8QvGc
 ¡Prepárate para explorar un mundo de sabores con solo un clic! 🌍🔍 #BotTrends #RecomendacionesGastronómicas #ExploreFlavors
 
 
-## Lin video rn YouTube
-https://www.youtube.com/watch?v=WcofwO9f9ko
+## Link video en YouTube
+[Ver el video en YouTube](https://www.youtube.com/watch?v=WcofwO9f9ko)
