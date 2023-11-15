@@ -104,6 +104,8 @@ Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Proje
 ## Automatización
 Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2ZfXR67C12KnO/edit?usp=drive_link&ouid=111305273898691886674&rtpof=true&sd=true) van a poder entender como es el trabajo de la automatizción de nuestro poryecto y porque es tan importante y fundamental. 
 
+<p><img src="src\Images\Automatización_Spartans.gif" width="800" height="480"></p>
+
 Al hacer [click en este enlace](https://drive.google.com/file/d/1lrnQAMO9Aa_GPigfIoAYQdb_JjyEDBwJ/view?usp=sharing) será conducido a un drive que contiene el video de la representación del trabajo de nuestra VM. Esta esta representa de manera más visual cuál es el trabajo de nuestro preograma para la actualización automatica de nuestros datos.
 
 #### Archivos complementarios a la automatización
