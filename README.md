@@ -168,6 +168,8 @@ Para inversores, se les ofrece unas métricas con información relevante relacio
 
 Adicionalmente, a los inversores les ofrecemos la  información de los Googler´s y Yelper´s más  activos  en la población donde están interesados en explorar negocios, como estrategia de valoración de negocio o mercadeo  futuro.
 
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/tree/master/EDAs">click en este enlace</a> será conducido al archivo que contiene el  Dashboard  en mención. Esta desarrollado en  "Power bi" por lo que solo puede ser abierto  en esa aplicación.
+
 <div id="¡Descrubre-nuestro-asistente!"/>
 
 ## ¡Descrubre nuestro asistente! 
