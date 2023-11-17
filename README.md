@@ -7,7 +7,7 @@
 ## **Tabla de contenidos**
 - [¿Quienes Somos?](#Quienes-Somos)
 - [Nuestro Equipo](#Nuestro-Equipo)
-- [Descripción del proyecto](#Descripción-del-proyecto)
+- [Descripción del Proyecto](#Descripción-del-proyecto)
 - [Objetivos](#Objetivos)
 - [Alcance](#Alcance)
 - [Stack tecnológico](#Stack-Tecnológico)
@@ -15,7 +15,7 @@
 - [Diagrama de Gantt](#Diagrama-de-Gantt)
 - [Información y recursos](#Información-y-Recursos)
    - [Documento_dossier del Proyecto](#Documento-Dossier-del-Proyecto)
-   - [Documentación de sprint y avances del Proyecto](#Documentación-de-Sprint-y-Avances-del-Proyecto)
+   - [Documentación de sprints y avances del Proyecto](#Documentación-de-Sprint-y-Avances-del-Proyecto)
    - [Datos del Proyecto](#Datos-del-Proyecto)
    - [Notebooks de ETLs](#Notebooks-de-ETLs)
    - [Diccionario de datos](#Diccionario-de-datos)
