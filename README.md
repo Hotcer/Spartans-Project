@@ -119,7 +119,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ### Notebooks-de-ETLs
 
-<p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de Extracción, Transformación y Carga (ETL) de datos.
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/tree/master/ETLs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de Extracción, Transformación y Carga (ETL) de datos.
 
 <br>
 
