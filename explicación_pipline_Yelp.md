@@ -1,5 +1,8 @@
-# Explicación del pipline del Yelp
-primero entiendamos que es un pepline
+# Explicación del pipline automatizado de nuestros datos
+
+Este proyecto implementa un proceso automatizado de ETL (Extracción, Transformación y Carga) para los datos de negocios y reseñas de Yelp y Google. Utiliza técnicas de computación en la nube y análisis de sentimientos para extraer insights valiosos.
+
+*ahora entiendamos que es un pepline*
 
 ### ¿Qué es un Pipline?
 
@@ -7,39 +10,52 @@ Un "pipeline" en programación se refiere a una secuencia de pasos o etapas que 
 
 En un pipeline, cada etapa puede ser independiente y paralelizable, lo que permite un procesamiento eficiente y la posibilidad de escalar el sistema según sea necesario. Los pipelines son una herramienta poderosa para diseñar sistemas que manejen grandes volúmenes de datos o ejecuten tareas complejas de manera organizada y eficiente.
 
-### ¿Qué es una maquina virtual?
 
-En un pipeline, cada etapa puede ser independiente y paralelizable, lo que permite un procesamiento eficiente y la posibilidad de escalar el sistema según sea necesario. Los pipelines son una herramienta poderosa para diseñar sistemas que manejen grandes volúmenes de datos o ejecuten tareas complejas de manera organizada y eficiente.
+## Descripción
+El script etl-yelp.py se ejecuta de forma automática en Google Cloud Platform en de forma programada todos los días, gracias a Google Pub/Sub y los guarda en nuestro almacenador de archivos Google Cloud Storage. Luego, de forma automatizada se extraen los últimos datos de negocios y reseñas de Yelp y Google almacenados en Google Cloud Storage en formato Parquet. Allí se realiza la limpieza y transformación de datos con Pandas, incluyendo análisis de sentimientos de las reseñas con TextBlob y NLTK. Finalmente, guarda los datos procesados en Parquet para usarlos en aplicaciones de BI, dashboards, sistemas de recomendación, etc. Todo este procedimiento se realiza ejecutandose los scripts de etl-yelp.py y etl-yelp.py.
 
-## Creación de nuestra automatización
+### Tecnologías
+Las principales tecnologías y librerías utilizadas son:
 
-Nosotros estamos trabajando con GCP. Esta plataforma cuenta con multiples herramientas. En este caso por cuestiones de tiempo nos decantamos por trabajar con una VM. En el ambiente de GCP las máquinas virtuales nos permiten a los usuarios crear y administrar servidores virtuales con diferentes configuraciones de hardware y sistemas operativos según nuestras necesidades.
+* **Python**: Lenguaje de programación interpretado y multiparadigma. Permite escribir código de forma sencilla y legible. Es muy popular para análisis de datos y machine learning.
 
-Nos brinda muchisimas ventajas:
+* **Google Cloud Platform (GCP)**: Plataforma de nube pública de Google. Proporciona servicios de computación, almacenamiento, networking, big data y machine learning.
 
-* Escalabilidad
-* Variedad de sistemas operativos
-* Seguridad
-* Gestión y automatización
-* Integración con otros servicios de GCP
-* Migración sencilla
+  * **Cloud Storage**: Servicio de almacenamiento de objetos en la nube. Permite almacenar archivos de cualquier tipo de forma redundante y escalable.
+  * **Pub/Sub**: Servicio de mensajería asíncrona. Permite la comunicación entre componentes mediante el modelo publicador/suscriptor. Útil para coordinar trabajos y eventos.
+* **Pandas**: Librería de Python para análisis de datos. Proporciona estructuras de datos (DataFrames) y herramientas para manipular y analizar datos.
 
-En esta maquina virtual realizamos unas configuraciones e instalaciones de programas, librerias, etc. Para poder hacerla que sea lo más optima posible y que realicé los trabajos que queremos asignarles. Lo que más nos gusta de esta opción es que tiene mucha escalibilidad, ya que si necesitaramos más recursos podemos acceder a ellos.
+* **PyArrow**: Librería para trabajar con columnar data sets eficientemente. Integra bien con Pandas.
 
-### Librerias y programas que utilizamos en nuestra VM
+* **TextBlob**: Librería para procesamiento de lenguaje natural. Permite realizar análisis de sentimientos.
 
-* ***Python***: El lenguaje de programación utilizado para escribir y ejecutar código en la VM.
-* ***Chromedriver***: El controlador de Selenium para interactuar con el navegador desde Python. Se utilizó para automatizar acciones en el navegador.
-* ***Selenium***: Un marco de automatización de pruebas que se utilizó en Python para controlar el navegador.
-* ***Google.cloud.storage***: es parte de la familia de bibliotecas de Google Cloud para interactuar con servicios de almacenamiento en la nube de Google, particularmente, Google Cloud Storage. Google Cloud Storage es un servicio de almacenamiento de objetos que permite almacenar y recuperar datos en la nube de Google.
-* ***Cron***:  es una forma común de programar tareas en sistemas Unix y Unix-like, incluyendo sistemas Linux. Permite a los usuarios y administradores programar la ejecución de comandos o scripts en momentos específicos, como horas, minutos, días de la semana, etc.
+* **NLTK (Natural Language Toolkit)**: Plataforma líder para trabajar con lenguaje humano en Python. Contiene recursos y módulos para tareas de NLP.
 
+
+
+## Procedimiento
+
+1. El script se ejecuta automáticamente de forma programada diaria, gracias a Pub/Sub. Extraemos los datos de las APIs y los almacenamos.
+
+2. Se conecta a Cloud Storage y descarga los últimos archivos Parquet.
+
+3. Lee el archivo Parquet en un DataFrame de Pandas.
+
+4. Realiza limpieza y normalización de datos:
+
+Convierte latitudes/longitudes a columnas separadas
+Elimina campos innecesarios
+Aplica análisis de sentimiento a las reseñas con TextBlob y NLTK.
+
+6. Guarda los DataFrames procesados en Parquet en Cloud Storage.
+
+De esta forma, mantenemos los datos analizados de Yelp y Google actualizados y listos para utilizar en aplicaciones de inteligencia de negocios y experiencia de cliente. El proceso automatizado garantiza que los insights extraídos reflejen los últimos datos de forma eficiente.
 
 ## Video
 
-Creamos un [video](https://drive.google.com/file/d/1m9XfsM0mWxTrELu12oXCSscTuTSSfKtZ/view?usp=sharing) en donde corremos una "*muestra*" de nuestro codigo que esta dentro de nuestra VM en GCP. Allí se puede observar como trabaja el programa que diseñamos de manera local. "*Hará basicamente lo mismo en nuestra VM, solamente que alli ya tiene configurado el CRON*"
+Creamos un [video](https://drive.google.com/file/d/1lrnQAMO9Aa_GPigfIoAYQdb_JjyEDBwJ/view?usp=drive_link) en donde corremos una "*muestra*" de nuestro codigo. También verificamos que nuestros archivos estan siendo modificados.
 
 ### Archivos
 
-* Este es el [archivo](https://drive.google.com/file/d/1GZOP_eBlDjF_9knN3UEGLuZ5hEZ2e1FU/view?usp=sharing) que se muestra en el video
-* Estos son los [archivo](https://drive.google.com/drive/folders/112NMQ11iN2ZCEbu4hAtI5gxFHTsvzMWl?usp=sharing) que trabajan en nuestra VM
+* [`pipes`](https://github.com/Hotcer/Spartans-Project/tree/master/pipes): Es una carpeta que contiene los **scripts** que se ejecuta para nuestra automatización de extracción de datos, limpieza, transformaciones y actualizaciones.
+* [`Etl-Explicación`](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2ZfXR67C12KnO/edit?usp=drive_link&ouid=111305273898691886674&rtpof=true&sd=true): Es un archivo word que explica más en detalle el trabajo y proceso de nuestro pipline automatizado,
