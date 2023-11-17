@@ -111,7 +111,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ### Datos-del-Proyecto
 
-<p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/data">click en este enlace</a> será conducido a la carpeta que contiene los conjuntos de datos utilizados en el proyecto, lo que te permitirá acceder y explorar los datos subyacentes.
+<p>Al hacer a <href="https://drive.google.com/drive/folders/1WH_Am48dCQ9ebB47dBqM_fEugYKVahf0?usp=drive_link">click en este enlace</a> será conducido a la carpeta que contiene los conjuntos de datos utilizados en el proyecto, lo que te permitirá acceder y explorar los datos subyacentes.
 
 <br>
 
