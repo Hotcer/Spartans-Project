@@ -156,7 +156,7 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 
 <br>
 
-<div id="¡Descrubre-nuestro-asistente!"/>
+<div id="Tableros-informativos"/>
 
 ## Tableros informativos 
 
@@ -167,6 +167,8 @@ Para dueños de negocios ofrecemos información relevante con Key Performance In
 Para inversores, se les ofrece unas métricas con información relevante relacionada con negocios con buen sentimiento en los clientes, pero con votación media en el rating de calificaciones, lo que genera oportunidades de inversión a precios menores, porque son negocios que necesitan un impulso y un nuevo aire para posicionarse adecuadamente. 
 
 Adicionalmente, a los inversores les ofrecemos la  información de los Googler´s y Yelper´s más  activos  en la población donde están interesados en explorar negocios, como estrategia de valoración de negocio o mercadeo  futuro.
+
+<div id="¡Descrubre-nuestro-asistente!"/>
 
 ## ¡Descrubre nuestro asistente! 
 
