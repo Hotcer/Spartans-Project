@@ -22,6 +22,7 @@
    - [Notebooks de EDAs](#Notebooks-de-EDAs)
 - [Automatización](#Automatización)
    - [Archivos complementarios a la automatización](#Archivos-complementarios-a-la-automatización)
+- [Tableros informativos](#Tableros-informativos)
 - [¡Descrubre nuestro asistente!](#¡Descrubre-nuestro-asistente!)
    - [Código de BobTrends (Bot de Telegram)](#Código-de-BobTrends)
 - [Video del Proyecto](#Video-del-proyecto)
@@ -156,6 +157,16 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 <br>
 
 <div id="¡Descrubre-nuestro-asistente!"/>
+
+## Tableros informativos 
+
+Nuestros tableros informativos (Dashboards) están dirigidos a ofrecer información relevante para dueños de negocios y para futuros inversores.
+
+Para dueños de negocios ofrecemos información relevante con Key Performance Indicators (KPI´s) obtenidos desde las recomendaciones de los usuarios, con indicadores claves que le dan al empresario un diagnóstico certero de cómo ven y sienten los clientes su negocio.
+
+Para inversores, se les ofrece unas métricas con información relevante relacionada con negocios con buen sentimiento en los clientes, pero con votación media en el rating de calificaciones, lo que genera oportunidades de inversión a precios menores, porque son negocios que necesitan un impulso y un nuevo aire para posicionarse adecuadamente. 
+
+Adicionalmente, a los inversores les ofrecemos la  información de los Googler´s y Yelper´s más  activos  en la población donde están interesados en explorar negocios, como estrategia de valoración de negocio o mercadeo  futuro.
 
 ## ¡Descrubre nuestro asistente! 
 
