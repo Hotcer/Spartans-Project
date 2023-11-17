@@ -23,6 +23,7 @@
 - [Automatización](#Automatización)
    - [Archivos complementarios a la automatización](#Archivos-complementarios-a-la-automatización)
 - [¡Descrubre nuestro asistente!](#¡Descrubre-nuestro-asistente!)
+   - [Código-de-BobTrends-(Bot-de-Telegram)](#Código-de-BobTrends-(Bot-de-Telegram))
 - [Video del Proyecto](#Video-del-proyecto)
 
 <div id="Quienes-Somos"/>
@@ -172,6 +173,14 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 🔥 ¡Convierte cada comida en una experiencia extraordinaria con BotTrends! Únete ahora: [BotTrends](https://t.me/BotTrends_bot) 🔥
 
 ¡Prepárate para explorar un mundo de sabores con solo un clic! 🌍🔍 #BotTrends #RecomendacionesGastronómicas #ExploreFlavors
+
+<br>
+
+<div id="Código-de-BobTrends-(Bot-de-Telegram"/>
+
+### Código de BobTrends (Bot de Telegram)
+
+<p>Al hacer <a href="[https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs](https://github.com/Hotcer/Spartans-Project/tree/master/BotTrends%20(bot))">click en este enlace</a> será conducido a la carpeta que contiene el archivo con el código en Python del bot.
 
 <br>
 
