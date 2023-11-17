@@ -95,7 +95,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ### Documento dossier del Proyecto
 
-<p>Al hacer <a href="[https://github.com/SantosOliveiraLucas/PF_Google_Yelp/blob/main/PROYECTO.pdf](https://github.com/Hotcer/Spartans-Project/blob/master/DOCs/PROYECTO.pdf)">click en este enlace</a> será conducido al documento que proporciona recursos, detalle, metodología, resultados esperados, entre otros detalles explicados con mayor precisión.
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/blob/master/DOCs/PROYECTO.pdf">click en este enlace</a> será conducido al documento que proporciona recursos, detalle, metodología, resultados esperados, entre otros detalles explicados con mayor precisión.
 
 <br>
 
