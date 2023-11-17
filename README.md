@@ -65,7 +65,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ## **Diagrama de Gantt**
 
-<p><img src="src/Images/Gantt.png"width="640" height="480"></p>
+<p><img src="src/Images/Gantt.png"width="900" height="480"></p>
 
 <br>
 
