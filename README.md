@@ -103,7 +103,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 ### Documentación de sprint y avances del Proyecto 
 
-<p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/blob/main/Sprint1.pdf">click en este enlace</a> será conducido al documento perteneciente al Sprint 1.
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/blob/master/DOCs/Sprint1.pdf">click en este enlace</a> será conducido al documento perteneciente al Sprint 1.
 
 <br>
 
