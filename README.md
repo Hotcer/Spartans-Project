@@ -23,7 +23,7 @@
 - [Automatización](#Automatización)
    - [Archivos complementarios a la automatización](#Archivos-complementarios-a-la-automatización)
 - [¡Descrubre nuestro asistente!](#¡Descrubre-nuestro-asistente!)
-   - [Código de BobTrends (Bot de Telegram)](#Código-de-BobTrends-(Bot-de-Telegram))
+   - [Código de BobTrends (Bot de Telegram)](#Código-de-BobTrends)
 - [Video del Proyecto](#Video-del-proyecto)
 
 <div id="Quienes-Somos"/>
@@ -178,9 +178,9 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 
 <div id="Código-de-BobTrends-(Bot-de-Telegram"/>
 
-### Código de BobTrends (Bot de Telegram)
+### Código de BobTrends
 
-<p>Al hacer <a href="[https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs](https://github.com/Hotcer/Spartans-Project/tree/master/BotTrends%20(bot))">click en este enlace</a> será conducido a la carpeta que contiene el archivo con el código en Python del bot.
+<p>Al hacer <a href="[https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs](https://github.com/Hotcer/Spartans-Project/tree/master/BotTrends%20(bot))">click en este enlace</a> será conducido a la carpeta que contiene el archivo con el código en Python del bot de Telegram®.
 
 <br>
 
