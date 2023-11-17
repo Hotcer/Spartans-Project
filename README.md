@@ -53,7 +53,7 @@ Realizar un desarrollo inicial a nivel local con solo una muestra de los datos d
 
 ## **Stack Tecnológico**
 
-<p><img src="src/Images/Stack.png"width="640" height="480"></p>
+<p><img src="src/Images/Stack_tecnologico.jpg"width="900" height="480"></p>
 
 <br>
 
