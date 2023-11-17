@@ -180,7 +180,7 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 
 ### Código de BobTrends
 
-<p>Al hacer <a href="[https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs](https://github.com/Hotcer/Spartans-Project/tree/master/BotTrends%20(bot))">click en este enlace</a> será conducido a la carpeta que contiene el archivo con el código en Python del bot de Telegram®.
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/tree/master/BotTrends%20(bot)">click en este enlace</a> será conducido a la carpeta que contiene el archivo con el código en Python del bot de Telegram®.
 
 <br>
 
