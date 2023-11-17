@@ -143,7 +143,8 @@ Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Proje
 <div id="Automatización"/>
 
 ## Automatización
-Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2ZfXR67C12KnO/edit?usp=drive_link&ouid=111305273898691886674&rtpof=true&sd=true) van a poder entender como es el trabajo de la automatizción de nuestro poryecto y porque es tan importante y fundamental. 
+[`explicación_pipline_Yelp.md`](https://github.com/Hotcer/Spartans-Project/blob/master/explicaci%C3%B3n_pipline_Yelp.md), es un archivo readme del pipline de actualización. Haciendo click en el archivo van a poder entender todo lo que hicimos en el proyecto para que nuestros datos se mantengan actualizados de manera automatica.
+
 
 <p><img src="src\Images\Automatización_Spartans.gif" width="800" height="480"></p>
 
@@ -152,7 +153,8 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 <div id="Archivos-complementarios-a-la-automatización"/>
 
 ### Archivos complementarios a la automatización
-* `pipes`: Es una carpeta que contiene los **scripts** que se ejecuta para nuestra automatización de extracción de datos, limpieza, transformaciones y actualizaciones.
+* [`pipes`](https://github.com/Hotcer/Spartans-Project/tree/master/pipes): Es una carpeta que contiene los **scripts** que se ejecuta para nuestra automatización de extracción de datos, limpieza, transformaciones y actualizaciones.
+* [`video_explicativo`](https://drive.google.com/file/d/1lrnQAMO9Aa_GPigfIoAYQdb_JjyEDBwJ/view?usp=drive_link): Este es un video que explicará como trabaja nuestro modelo.
 
 <br>
 
