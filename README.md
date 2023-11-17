@@ -23,7 +23,7 @@
 - [Automatización](#Automatización)
    - [Archivos complementarios a la automatización](#Archivos-complementarios-a-la-automatización)
 - [¡Descrubre nuestro asistente!](#¡Descrubre-nuestro-asistente!)
-   - [Código-de-BobTrends-(Bot-de-Telegram)](#Código-de-BobTrends-(Bot-de-Telegram))
+   - [Código de BobTrends (Bot de Telegram)](#Código-de-BobTrends-(Bot-de-Telegram))
 - [Video del Proyecto](#Video-del-proyecto)
 
 <div id="Quienes-Somos"/>
