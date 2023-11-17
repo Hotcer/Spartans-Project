@@ -135,7 +135,7 @@ Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Proje
 
 ### Notebooks de EDAs
 
-<p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/EDAs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de análisis exploratorio de datos (EDA).
+<p>Al hacer <a href="https://github.com/Hotcer/Spartans-Project/tree/master/EDAs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de análisis exploratorio de datos (EDA).
 
 <br>
 
