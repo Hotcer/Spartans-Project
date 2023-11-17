@@ -11,19 +11,19 @@
 - [Objetivos](#Objetivos)
 - [Alcance](#Alcance)
 - [Stack tecnológico](#Stack-Tecnológico)
-- [Metodología-de-trabajo](#Metodología-de-Trabajo)
-- [Diagrama de Gantt](#Diagrama de Gantt)
-- [Información y recursos](#Información y Recursos)
-   - [Documento dossier del Proyecto](#Documento Dossier del Proyecto)
-   - [Documentación de sprint y avances del Proyecto](#Documentación de Sprint y Avances del Proyecto)
-   - [Datos del Proyecto](#Datos del Proyecto)
-   - [Notebooks de ETLs](#Notebooks de ETLs)
-   - [Diccionario de datos](#Diccionario de datos)
-   - [Notebooks de EDAs](#Notebooks de EDAs)
+- [Metodología de trabajo](#Metodología-de-Trabajo)
+- [Diagrama de Gantt](#Diagrama-de-Gantt)
+- [Información y recursos](#Información-y-Recursos)
+   - [Documento_dossier del Proyecto](#Documento-Dossier-del-Proyecto)
+   - [Documentación de sprint y avances del Proyecto](#Documentación-de-Sprint-y-Avances-del-Proyecto)
+   - [Datos del Proyecto](#Datos-del-Proyecto)
+   - [Notebooks de ETLs](#Notebooks-de-ETLs)
+   - [Diccionario de datos](#Diccionario-de-datos)
+   - [Notebooks de EDAs](#Notebooks-de-EDAs)
 - [Automatización](#Automatización)
-   - [Archivos complementarios a la automatización](#Archivos complementarios a la automatización)
-- [¡Descrube nuestro asistente!](#¡Descrube nuestro asistente!)
-- [Video del proyecto](#Video del proyecto)
+   - [Archivos complementarios a la automatización](#Archivos-complementarios-a-la-automatización)
+- [¡Descrubre nuestro asistente!](#¡Descrubre-nuestro-asistente!)
+- [Video del Proyecto](#Video-del-proyecto)
 
 <div id="Quienes-Somos"/>
 
@@ -76,7 +76,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <br>
 
-<div id="Diagrama de Gantt"/>
+<div id="Diagrama-de-Gantt"/>
 
 ## **Diagrama de Gantt**
 
@@ -84,13 +84,13 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <br>
 
-<div id="Información y Recursos"/>
+<div id="Información-y-Recursos"/>
 
 ## **Información y Recursos**
 
 <br>
 
-<div id="Documento Dossier del Proyecto"/>
+<div id="Documento-Dossier-del-Proyecto"/>
 
 ### Documento dossier del Proyecto
 
@@ -98,7 +98,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <br>
 
-<div id="Documentación de Sprint y Avances del Proyecto"/>
+<div id="Documentación-de-Sprint-y-Avances-del-Proyecto"/>
 
 ### Documentación de sprint y avances del Proyecto 
 
@@ -108,7 +108,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <div id="Datos del Proyecto"/>
 
-### Datos del Proyecto
+### Datos-del-Proyecto
 
 <p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/data">click en este enlace</a> será conducido a la carpeta que contiene los conjuntos de datos utilizados en el proyecto, lo que te permitirá acceder y explorar los datos subyacentes.
 
@@ -116,13 +116,13 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM, e
 
 <div id="Notebooks de ETLs"/>
 
-### Notebooks de ETLs
+### Notebooks-de-ETLs
 
 <p>Al hacer <a href="https://github.com/SantosOliveiraLucas/PF_Google_Yelp/tree/main/ETLs">click en este enlace</a> será conducido a la carpeta que contiene los Notebooks del proceso de Extracción, Transformación y Carga (ETL) de datos.
 
 <br>
 
-<div id="Diccionario de datos"/>
+<div id="Diccionario-de-datos"/>
 
 ### Diccionario de datos
 
@@ -130,7 +130,7 @@ Al hacer [click en el siguiente enlace](https://github.com/Hotcer/Spartans-Proje
 
 <br>
 
-<div id="Notebooks de EDAs"/>
+<div id="Notebooks-de-EDAs"/>
 
 ### Notebooks de EDAs
 
@@ -147,16 +147,16 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 
 <br>
 
-<div id="Archivos complementarios a la automatización"/>
+<div id="Archivos-complementarios-a-la-automatización"/>
 
 ### Archivos complementarios a la automatización
 * `pipes`: Es una carpeta que contiene los **scripts** que se ejecuta para nuestra automatización de extracción de datos, limpieza, transformaciones y actualizaciones.
 
 <br>
 
-<div id="¡Descrube nuestro asistente!"/>
+<div id="¡Descrubre-nuestro-asistente!"/>
 
-## ¡Descrube nuestro asistente! 
+## ¡Descrubre nuestro asistente! 
 
 ¡Descubre el nuevo asistente gastronómico que revolucionará tus experiencias culinarias! 🍽✨
 
@@ -175,7 +175,7 @@ Haciendo [click aqui](https://docs.google.com/document/d/19tRJGJ6W5Q_1I1Y5kvJ2Zf
 
 <br>
 
-<div id="Video del proyecto"/>
+<div id="Video-del-proyecto"/>
 
-## Video del proyecto
+## Video del Proyecto
 [Ver el video en YouTube](https://youtu.be/1wgP55bSDxM)
